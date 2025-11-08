@@ -1,5 +1,5 @@
 # Absen-Anti-Nitip
-Absen Anti Nitip by Rafli Fadillah<br />
+Absen Anti Nitip by Muhammad Rizki Ramadan<br />
 
 Karena saya lupa packages apa saja yang diinstall. Jadi install saja semua packages yang saya tulis berikut:<br />
 
@@ -22,7 +22,7 @@ pip install playsound<br />
 pip install --upgrade wheel<br />
 pip install pyttsx3<br />
 pip install gTTS<br />
-pip install sklearn<br />
+pip install scikit-learn<br />
 pip install streamlit<br />
 pip install streamlit_autorefresh<br />
 pip install datetime<br />
